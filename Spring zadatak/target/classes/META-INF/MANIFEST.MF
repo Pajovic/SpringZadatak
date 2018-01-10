@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Pajovic Petar
+Build-Jdk: 9.0.1
+Implementation-Title: gs-accessing-mongodb-data-rest
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/gs-accessing
+ -mongodb-data-rest/
+Created-By: Maven Integration for Eclipse
+
